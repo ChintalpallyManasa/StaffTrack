@@ -1,0 +1,63 @@
+.leave-application {
+    width: 100%;
+    margin: 0 auto;
+    padding: 100px;
+    padding-left: 14cm;
+    padding-right: 10cm;
+    /* background-color: #f0f0f0; */
+    border-radius: 5px;
+    height: 100pc;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  .leave-application h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  
+  }
+  
+  .leave-application form {
+    display: flex;
+    flex-direction: column;
+    /* margin: 8px 0; */
+    background-color: #edeaea;
+    border-radius:13px;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+  }
+  .leave-application input{
+    margin-left: 6cm;
+    width: 30%;
+  }
+  .leave-application .form-group {
+    margin-bottom: 10px;
+    
+  }
+  
+  .leave-application label {
+    font-weight: bold;
+    margin-left: 6cm;
+  }
+  
+  /* .leave-application input,
+  .leave-application textarea {
+    width: 20%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    
+    
+  } */
+  
+  .leave-application button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 6.5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    width: 15%;
+    margin-left: 6.5cm;
+
+  }
